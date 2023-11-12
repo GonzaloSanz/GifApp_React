@@ -1,1 +1,2 @@
-# Proyecto realizado con Vite, React y CSS3
+# GifApp
+Proyecto realizado con Vite, React y CSS3
