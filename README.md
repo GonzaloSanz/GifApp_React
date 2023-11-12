@@ -1,1 +1,1 @@
-# Proyecto realziado con Vite, React y CSS3
+# Proyecto realizado con Vite, React y CSS3
